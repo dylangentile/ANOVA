@@ -26,7 +26,10 @@ int main()
 	AnovaData *myData = new AnovaData(samples);
 	
 	cout << "\nInput your numerical data for sample 1(type f to finish)\n";
+	for (unsigned i = 0; i < samples; i++)
+	{
 
+	}
 
 
 
